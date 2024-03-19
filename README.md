@@ -1,3 +1,7 @@
+# ESV Audio PWA
+
+This is my edit of a PWA template for github pages.
+
 # Github page as a PWA template
 
 This is a bare-bones example on how to turn an `index.html` document on GitHub and hosted as a GitHub Page into an installable Progressive Web App with offline caching.

@@ -1,15 +1,15 @@
 {
-  "name": "Github Page PWA",
-  "short_name": "GPPWA",
-  "description": "Github Page as a Progressive Web App",
-  "scope": "/github-page-pwa/",
-  "start_url": "/github-page-pwa/",
+  "name": "ESV Audio PWA",
+  "short_name": "ESVA",
+  "description": "ESV Audio Progressive Web App",
+  "scope": "/esv-audio/",
+  "start_url": "/esv-audio/",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "display": "standalone", 
   "icons": [
       {
-        "src": "/github-page-pwa/img/icon.png",
+        "src": "/esv-audio/img/icon.png",
         "type": "image/png",
         "sizes": "700x700"
       }
