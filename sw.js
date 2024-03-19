@@ -1,6 +1,6 @@
 var GHPATH = '/esv-audio';
 var APP_PREFIX = 'esva_';
-var VERSION = 'version_03';
+var VERSION = 'version_04';
 var URLS = [    
   `${GHPATH}/`,
   `${GHPATH}/index.html`,
